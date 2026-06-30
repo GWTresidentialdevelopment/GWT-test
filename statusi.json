@@ -3,7 +3,7 @@
   "S12": "dostupno",
   "S13": "dostupno",
   "S14": "dostupno",
-  "S15": "dostupno",
+  "S15": "rezervirano",
   "S16": "dostupno",
   "S17": "dostupno",
   "S18": "dostupno",
@@ -40,6 +40,6 @@
   "S57": "dostupno",
   "S58": "prodano",
   "S61": "dostupno",
-  "S62": "prodano",
-  "S63": "dostupno"
+  "S62": "dostupno",
+  "S63": "prodano"
 }
